@@ -37,11 +37,18 @@ export default function Header (){
         </nav>
 
         {/* Avatar */}
+        <div className="flex">
+          <div className="flex bg-[#ffeef5] rounded-xl items-center mr-4 p-2 text-[#f198b7] font-bold">
+            <img className="h-[17px] w-[17px]" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504585/archive_check_t973bj.png" alt="" />
+            <p className="text-xs">Your Recipe Box</p>
+          </div>
         <img
           src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741505119/avatar_jnpmzk.png"
           alt="User Avatar"
           className="h-10 w-10 rounded-full border-2 border-pink-500"
         />
+        </div>
+        
       </div>
     </header>
   );

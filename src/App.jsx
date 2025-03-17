@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './componation/header';
 import Foot from './componation/footer';
+import Body from './componation/body';
 function App() {
   var [A, setA]= useState(0);
   var [B, setB]= useState(0);
@@ -58,6 +59,7 @@ function App() {
       <input type="radio" onClick={chia} name="cal" value="/" /> / <br />
       <label htmlFor="#">Result: {total.count}</label> */}
       <Header/>
+      <Body/>
       <Foot/>
     </>
   );
