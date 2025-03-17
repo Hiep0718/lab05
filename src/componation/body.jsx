@@ -96,7 +96,190 @@ export default function  Body(){
                     </div>
                 </div>
             </div>
-            <div className="basis-2/3 flex-grow bg-red-500 p-4">Item 2</div>
+            <div className="basis-2/3 flex-grow p-10">
+                <div className="flex justify-between">
+                    <h1 className="font-bold">Salad(32)</h1>
+                    <div className="relative inline-block w-[150px]">
+                    <select className="appearance-none w-[150px] border border-gray-300 rounded-md py-2 px-4 text-gray-700 focus:ring-2 focus:ring-blue-500 focus:outline-none" name="select" id="select">
+                        <option value="all">A-Z</option>
+                    </select>
+                    <div class="absolute inset-y-0 right-2 flex items-center pointer-events-none">
+                        <img className="rotate-90" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504523/Arrow_forward_ios_2_injmzc.png" alt="" />
+                    </div>
+                    </div>
+                </div>
+                <div className="flex">
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                </div>
+                <div className="flex">
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                </div>
+                <div className="flex">
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                    <div className="max-w-72 rounded-2xl overflow-hidden shadow-lg border border-gray-200 m-2">
+                        <img className="w-full h-48 object-cover" src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504525/italian_style_tomato_salad_rszp46.png" alt="Cucumber salad" />
+                    
+                        <div className="p-4">
+                            <div className="flex justify-between items-center">
+                            <h3 className="font-bold text-lg">Cucumber salad, <br /> cherry tomatoes</h3>
+                            <div className="p-2">
+                                <img src="https://res.cloudinary.com/dzg9a53dm/image/upload/v1741504524/Icon_Button_73_slliwm.png">
+                                </img>
+                            </div>
+                            </div>
+                            <div className="rounded-xl bg-[#ffeaf4] w-fit p-2 mt-2">
+                                <p className="text-pink-500 text-sm font-medium">32 minutes</p>
+                            </div>               
+                        </div>
+                    </div>
+                </div>
+                <div className="flex justify-end">
+                    <div className="flex items-center space-x-2">
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">
+                        &lt;
+                    </button>
+
+                    <button className="px-3 py-2 border rounded-md bg-pink-500 text-white">1</button>
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">2</button>
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">3</button>
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">4</button>
+                    <span className="px-3 py-2 text-gray-500">...</span>
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">10</button>
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">11</button>
+
+                    <button className="px-3 py-2 border rounded-md text-gray-500 hover:bg-gray-100">
+                        &gt;
+                    </button>
+                    </div>
+                </div>
+                
+
+            </div>
         </div>
         </>
     )
